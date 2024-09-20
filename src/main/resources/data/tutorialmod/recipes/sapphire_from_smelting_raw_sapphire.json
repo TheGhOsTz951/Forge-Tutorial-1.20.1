@@ -5,7 +5,7 @@
   "experience": 0.7,
   "group": "sapphire",
   "ingredient": {
-    "item": "tutorial_mod:raw_sapphire"
+    "item": "tutorialmod:raw_sapphire"
   },
-  "result": "tutorial_mod:sapphire"
+  "result": "tutorialmod:sapphire"
 }
